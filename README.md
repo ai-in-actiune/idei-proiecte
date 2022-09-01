@@ -11,7 +11,12 @@ Loc unde vom aduna idei de proiecte pentru business si societate bazate pe tehno
 # vina cu idei de implementare a unui proiect
 - comenteaza cu resurse
 
-
+# template idei noi
+copie textul de mai jos si completeaza in discutia noua
+- problema
+- solutia care foloseste inteligenta artificiala
+- seturi de date existente
+- linkuri utile
 
 
 ## License
